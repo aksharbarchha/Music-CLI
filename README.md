@@ -20,7 +20,6 @@
 > It allows you to enjoy music by just typing a single command.
 
 
-</div>
 
 ------------------------------------------
 
@@ -34,16 +33,14 @@
 
 <div align = "center">
 <img src="images/beep.png" width=150px/>
- </div>
-<div align="center">
+</div>
 
 * Beep 
 - [x] Used for playing audio files .
 
 <div align = "center">
 <img src="images/tcell.png" width=150px/>
- </div>
-<div align="center">
+</div>
 
 * TCell
 - [x] Used for laying out interface on terminal. 
