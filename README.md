@@ -1,11 +1,12 @@
 <div align = "center">
-<img src="images/logo.jpeg" width=250px/>
+<img src="images/logo.jpeg" width=300px/>
  </div>
 <div align="center">
  
-<br></br>
-
-![](https://img.shields.io/badge/-GoLang-white?style=for-the-badge&logo=go)
+<div align = "center">
+<img src="https://img.shields.io/badge/-GoLang-white?style=for-the-badge&logo=go" width=150px/>
+ </div>
+ 
 
 
 <br>
@@ -16,7 +17,7 @@
 
 ------------------------------------------
 
-> ** Music-CLI ** is a command line Music Player, written in Go! 
+> **Music-CLI** is a command line Music Player, written in Go! 
 
 > It allows you to enjoy music by just typing a single command.
 
@@ -53,7 +54,7 @@
 ------------------------------------------
 <div align = "center">
 
-<img src="images/ss.gif" width=600px/>
+<img src="finalrec.mp4" width=600px/>
 <br/><br/>
 
 </div>
