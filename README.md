@@ -1,8 +1,9 @@
 <div align = "center">
-<img src="images/logo.jpeg" width=500px/>
+<img src="images/logo.jpeg" width=250px/>
  </div>
 <div align="center">
-
+ 
+<br></br>
 
 ![](https://img.shields.io/badge/-GoLang-white?style=for-the-badge&logo=go)
 
@@ -31,16 +32,12 @@
 ------------------------------------------
 ### Libraries Used
 
-<div align = "center">
-<img src="images/beep.png" width=150px/>
-</div>
+<img src="images/beep.png" width=100px/>
 
 * Beep 
 - [x] Used for playing audio files .
 
-<div align = "center">
-<img src="images/tcell.png" width=150px/>
-</div>
+<img src="images/tcell.png" width=100px/>
 
 * TCell
 - [x] Used for laying out interface on terminal. 
