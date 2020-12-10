@@ -54,7 +54,7 @@
 ------------------------------------------
 <div align = "center">
 
-<img src="finalrec.mp4" width=600px/>
+<img src="rec.gif" width=600px/>
 <br/><br/>
 
 </div>
